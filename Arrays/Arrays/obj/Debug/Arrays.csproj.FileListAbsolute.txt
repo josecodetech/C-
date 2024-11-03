@@ -1,0 +1,7 @@
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\Arrays\Arrays\obj\Debug\Arrays.pdb

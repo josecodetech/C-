@@ -1,0 +1,4 @@
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\tipos_datos\tipos_datos\obj\Debug\net8.0\tipos_datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\tipos_datos\tipos_datos\obj\Debug\net8.0\tipos_datos.AssemblyInfoInputs.cache
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\tipos_datos\tipos_datos\obj\Debug\net8.0\tipos_datos.AssemblyInfo.cs
+D:\documentos\grado aplicaciones informaticcas multiplataforma\Programacion 4468_57\ejemplos_codigo\tipos_datos\tipos_datos\obj\Debug\net8.0\tipos_datos.csproj.CoreCompileInputs.cache
