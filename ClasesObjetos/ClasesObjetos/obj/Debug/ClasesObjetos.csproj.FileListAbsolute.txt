@@ -1,0 +1,7 @@
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe.config
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.pdb
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.AssemblyReference.cache
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.csproj.CoreCompileInputs.cache
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.exe
+D:\workspace\WorkspaceTutorialC#\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.pdb

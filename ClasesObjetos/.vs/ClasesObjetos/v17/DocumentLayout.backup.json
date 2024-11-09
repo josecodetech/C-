@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\WorkspaceTutorialC#\\ClasesObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1346CDE-E5D9-460D-B2A1-C1FD5AB9EE17}|ClasesObjetos\\ClasesObjetos.csproj|d:\\workspace\\workspacetutorialc#\\clasesobjetos\\clasesobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1346CDE-E5D9-460D-B2A1-C1FD5AB9EE17}|ClasesObjetos\\ClasesObjetos.csproj|solutionrelative:clasesobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\WorkspaceTutorialC#\\ClasesObjetos\\ClasesObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "ClasesObjetos\\Program.cs",
+              "ToolTip": "D:\\Workspace\\WorkspaceTutorialC#\\ClasesObjetos\\ClasesObjetos\\Program.cs*",
+              "RelativeToolTip": "ClasesObjetos\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:54:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
