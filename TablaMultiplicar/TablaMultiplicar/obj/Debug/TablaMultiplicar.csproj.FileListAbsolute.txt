@@ -1,0 +1,7 @@
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\bin\Debug\TablaMultiplicar.exe.config
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\bin\Debug\TablaMultiplicar.exe
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\bin\Debug\TablaMultiplicar.pdb
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.csproj.AssemblyReference.cache
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.csproj.CoreCompileInputs.cache
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.exe
+D:\workspace\WorkspaceTutorialC#\TablaMultiplicar\TablaMultiplicar\obj\Debug\TablaMultiplicar.pdb

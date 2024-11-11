@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\WorkspaceTutorialC#\\ClaseEmpleado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE6C587-06D6-4D1D-9EF6-4CCBACE4EAEE}|ClaseEmpleado\\ClaseEmpleado.csproj|d:\\workspace\\workspacetutorialc#\\claseempleado\\claseempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE6C587-06D6-4D1D-9EF6-4CCBACE4EAEE}|ClaseEmpleado\\ClaseEmpleado.csproj|solutionrelative:claseempleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\WorkspaceTutorialC#\\ClaseEmpleado\\ClaseEmpleado\\Program.cs",
+              "RelativeDocumentMoniker": "ClaseEmpleado\\Program.cs",
+              "ToolTip": "D:\\Workspace\\WorkspaceTutorialC#\\ClaseEmpleado\\ClaseEmpleado\\Program.cs*",
+              "RelativeToolTip": "ClaseEmpleado\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:11:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

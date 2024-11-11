@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\bin\Debug\ClaseProducto.exe.config
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\bin\Debug\ClaseProducto.exe
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\bin\Debug\ClaseProducto.pdb
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\obj\Debug\ClaseProducto.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\obj\Debug\ClaseProducto.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\obj\Debug\ClaseProducto.exe
+D:\Workspace\WorkspaceTutorialC#\ClaseProducto\ClaseProducto\obj\Debug\ClaseProducto.pdb

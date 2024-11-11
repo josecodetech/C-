@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\bin\Debug\SumaParesIntervalo.exe.config
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\bin\Debug\SumaParesIntervalo.exe
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\bin\Debug\SumaParesIntervalo.pdb
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\obj\Debug\SumaParesIntervalo.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\obj\Debug\SumaParesIntervalo.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\obj\Debug\SumaParesIntervalo.exe
+D:\Workspace\WorkspaceTutorialC#\SumaParesIntervalo\SumaParesIntervalo\obj\Debug\SumaParesIntervalo.pdb

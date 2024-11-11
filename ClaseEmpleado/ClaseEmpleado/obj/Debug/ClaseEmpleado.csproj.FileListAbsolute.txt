@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe.config
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.pdb
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.exe
+D:\Workspace\WorkspaceTutorialC#\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.pdb

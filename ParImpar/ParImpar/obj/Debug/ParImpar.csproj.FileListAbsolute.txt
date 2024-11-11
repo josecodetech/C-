@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\bin\Debug\ParImpar.exe.config
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\bin\Debug\ParImpar.exe
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\bin\Debug\ParImpar.pdb
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\obj\Debug\ParImpar.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\obj\Debug\ParImpar.exe
+D:\Workspace\WorkspaceTutorialC#\ParImpar\ParImpar\obj\Debug\ParImpar.pdb

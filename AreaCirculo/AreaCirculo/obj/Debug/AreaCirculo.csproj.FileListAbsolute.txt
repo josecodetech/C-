@@ -1,0 +1,7 @@
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe.config
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.pdb
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.AssemblyReference.cache
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.CoreCompileInputs.cache
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.exe
+D:\workspace\WorkspaceTutorialC#\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.pdb
