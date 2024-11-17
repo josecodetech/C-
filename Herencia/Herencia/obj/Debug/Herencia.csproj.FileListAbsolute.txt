@@ -1,0 +1,7 @@
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\bin\Debug\Herencia.exe.config
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\bin\Debug\Herencia.exe
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\bin\Debug\Herencia.pdb
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\obj\Debug\Herencia.exe
+D:\workspace\WorkspaceTutorialC#\Herencia\Herencia\obj\Debug\Herencia.pdb

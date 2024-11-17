@@ -1,0 +1,3 @@
+Nota 1: Aprobado
+Nota 2: Sobresaliente
+Nota 3: Suspenso

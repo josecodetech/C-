@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\bin\Debug\ControlExcepcionesMultiples.exe.config
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\bin\Debug\ControlExcepcionesMultiples.exe
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\bin\Debug\ControlExcepcionesMultiples.pdb
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\obj\Debug\ControlExcepcionesMultiples.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\obj\Debug\ControlExcepcionesMultiples.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\obj\Debug\ControlExcepcionesMultiples.exe
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesMultiples\ControlExcepcionesMultiples\obj\Debug\ControlExcepcionesMultiples.pdb

@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\bin\Debug\ArchivoNotas.exe.config
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\bin\Debug\ArchivoNotas.exe
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\bin\Debug\ArchivoNotas.pdb
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\obj\Debug\ArchivoNotas.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\obj\Debug\ArchivoNotas.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\obj\Debug\ArchivoNotas.exe
+D:\Workspace\WorkspaceTutorialC#\ArchivoNotas\ArchivoNotas\obj\Debug\ArchivoNotas.pdb

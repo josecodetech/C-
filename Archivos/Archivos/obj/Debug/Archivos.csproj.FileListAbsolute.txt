@@ -1,0 +1,7 @@
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\bin\Debug\Archivos.exe.config
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\bin\Debug\Archivos.exe
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\bin\Debug\Archivos.pdb
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\obj\Debug\Archivos.exe
+D:\workspace\WorkspaceTutorialC#\Archivos\Archivos\obj\Debug\Archivos.pdb
