@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\bin\Debug\InterfazPropiedades.exe.config
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\bin\Debug\InterfazPropiedades.exe
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\bin\Debug\InterfazPropiedades.pdb
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\obj\Debug\InterfazPropiedades.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\obj\Debug\InterfazPropiedades.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\obj\Debug\InterfazPropiedades.exe
+D:\Workspace\WorkspaceTutorialC#\InterfazPropiedades\InterfazPropiedades\obj\Debug\InterfazPropiedades.pdb

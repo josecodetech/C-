@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\bin\Debug\ControlExcepcionesThrow.exe.config
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\bin\Debug\ControlExcepcionesThrow.exe
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\bin\Debug\ControlExcepcionesThrow.pdb
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\obj\Debug\ControlExcepcionesThrow.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\obj\Debug\ControlExcepcionesThrow.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\obj\Debug\ControlExcepcionesThrow.exe
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesThrow\ControlExcepcionesThrow\obj\Debug\ControlExcepcionesThrow.pdb

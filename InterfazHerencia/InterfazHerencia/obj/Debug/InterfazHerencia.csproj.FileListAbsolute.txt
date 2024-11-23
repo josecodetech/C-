@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\bin\Debug\InterfazHerencia.exe.config
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\bin\Debug\InterfazHerencia.exe
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\bin\Debug\InterfazHerencia.pdb
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\obj\Debug\InterfazHerencia.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\obj\Debug\InterfazHerencia.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\obj\Debug\InterfazHerencia.exe
+D:\Workspace\WorkspaceTutorialC#\InterfazHerencia\InterfazHerencia\obj\Debug\InterfazHerencia.pdb

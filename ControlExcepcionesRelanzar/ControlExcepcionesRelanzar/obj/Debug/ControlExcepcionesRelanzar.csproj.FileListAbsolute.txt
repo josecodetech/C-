@@ -1,0 +1,7 @@
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\bin\Debug\ControlExcepcionesRelanzar.exe.config
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\bin\Debug\ControlExcepcionesRelanzar.exe
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\bin\Debug\ControlExcepcionesRelanzar.pdb
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\obj\Debug\ControlExcepcionesRelanzar.csproj.AssemblyReference.cache
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\obj\Debug\ControlExcepcionesRelanzar.csproj.CoreCompileInputs.cache
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\obj\Debug\ControlExcepcionesRelanzar.exe
+D:\Workspace\WorkspaceTutorialC#\ControlExcepcionesRelanzar\ControlExcepcionesRelanzar\obj\Debug\ControlExcepcionesRelanzar.pdb
